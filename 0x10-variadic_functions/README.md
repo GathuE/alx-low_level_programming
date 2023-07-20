@@ -1,1 +1,1 @@
-This is a project file for Variadic functions
+This is the project root file for Variadic functions
